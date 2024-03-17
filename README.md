@@ -8,7 +8,7 @@
 
 </br>
 
-And you expect a json object like that
+You expect a json object like that
 
 ```
 {
@@ -21,7 +21,7 @@ And you expect a json object like that
 
 </br>
 
-And you expect a json object like that
+You expect a json object like that
 
 ```
 {
